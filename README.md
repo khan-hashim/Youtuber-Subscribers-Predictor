@@ -1,2 +1,3 @@
 # Youtuber-Subscribers-Predictor
 A Machine Learning project to predict number of subscribers of a youtube channel.
+Used Global YouTube Statistics dataset from Kaggle that contains comprehensive details on top creators' subscriber counts, video views, upload frequency, country of origin, earnings etc, performed Exploratory Data Analysis(EDA) to gain insights into the data set and find correlations between columns, cleaned and preprocessed the data to prepare it for training, trained linear, lasso and polynomial regression models and used the best performing model to predict the number of subscribers.
